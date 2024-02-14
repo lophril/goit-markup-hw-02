@@ -41,7 +41,7 @@ body {
     color: #434455;
 }
 
-.address .link:hover, .address .link:focus {
+.contacts .link:hover, .contacts .link:focus {
     color: #404bbf;
 }
 
@@ -68,7 +68,7 @@ body {
 }
 
 .hero-image-button:hover, .hero-image-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .resources-item {
@@ -87,7 +87,7 @@ body {
 }
 
 .team {
-    background-color: #f4f4fd;;
+    background-color: #f4f4fd;
 }
 
 .team-item {
@@ -97,10 +97,6 @@ body {
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
-}
-
-.team-list {
-    background-color: #FFFFFF;
 }
 
 .team-names {
