@@ -19,11 +19,11 @@ body {
 }
 
 .page-nav {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
 }
 
 .page-nav .link:hover, .page-nav .link:focus {
@@ -34,14 +34,14 @@ body {
     font-style: normal
 }
 
-.contacts {
+.adress-list {
+    color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
-.contacts .link:hover, .contacts .link:focus {
+.adress-list .link:hover, .adress-list .link:focus {
     color: #404bbf;
 }
 
