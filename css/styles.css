@@ -18,7 +18,7 @@ body {
     color: #2e2f42;
 }
 
-.page-nav {
+.page-nav .link {
     color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
@@ -34,14 +34,14 @@ body {
     font-style: normal
 }
 
-.adress-list {
+.adress-list .link {
     color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.adress-list .link:hover, .adress-list .link:focus {
+.adress-list .link:hover, .adres    s-list .link:focus {
     color: #404bbf;
 }
 
