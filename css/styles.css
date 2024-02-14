@@ -1,0 +1,124 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    color: black;
+}
+
+.logo {
+    font-size: 18px;
+    line-height: 1.17;
+    color: #4d5ae5;
+}
+
+.logo-item {
+        font-size: 18px;
+        line-height: 1.17;
+        color: #2e2f42;
+}
+
+.page-nav {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #4d5ae5;
+}
+
+.page-nav .link:hover, .page-nav .link:focus {
+    color: #404bbf;
+}
+
+.adress {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.address .link:hover, .address .link:focus {
+    color: #404bbf;
+}
+
+.hero-image {
+    background-color: #2e2f42;
+}
+
+.hero-image-item {
+    font-size: 56px;
+    line-height: 1.07;
+    color: #fff;
+}
+
+.hero-image-button {
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #4d5ae5;
+    color: #fff;
+    cursor: pointer;
+}
+
+.resources-item {
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+.resources-goals {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.team {
+    background-color: #f4f4fd;;
+}
+
+.team-item {
+    font-size: 36px;
+    line-height: 1.1;
+    color: #2e2f42;
+}
+
+.team-names {
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+.team-descr {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.portfolio-item {
+    font-size: 36px;
+    line-height: 1.1;
+    color: #2e2f42;
+}
+
+.portfolio-names {
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
+.portfolio-descr {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+footer {
+    background-color: #2e2f42;;
+}
+
+.logo-item-footer {
+    font-size: 18px;
+    line-height: 1.17;
+    color: #f4f4fd;
+}
+
+.footer-descr {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f4f4fd;
+}
+
